@@ -89,7 +89,7 @@ The Power BI dashboard combines the main results into a single page covering:
 
 The full Power BI file is included in the repository:
 
-`BI_olist_mine.pbix`
+`03_olist_ecommerce_dashboard.pbix`
 
 ## Business Takeaways
 
