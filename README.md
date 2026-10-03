@@ -4,7 +4,7 @@ End-to-end analysis of the Olist Brazilian e-commerce dataset using MySQL and Po
 
 The project covers sales performance, customer behavior, payment methods, delivery performance, and customer reviews.
 
-![Olist E-Commerce Dashboard](Dashboard.jpg)
+![Olist E-Commerce Dashboard](dashboard.jpg)
 
 ## Project Overview
 
@@ -68,11 +68,11 @@ For Power BI, I created five SQL views with clearly defined grains:
 
 ## SQL Files
 
-### `02_business_analysis.sql`
+### `01_business_analysis.sql`
 
 Contains the SQL used to answer the 8 business questions.
 
-### `03_powerbi_data.sql`
+### `02_powerbi_data.sql`
 
 Creates the SQL views used as the Power BI data layer.
 
