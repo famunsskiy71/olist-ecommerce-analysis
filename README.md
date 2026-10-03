@@ -1,2 +1,2 @@
-# olist-ecommerce-analysis
+# Olist E-Commerce Analysis
 End-to-end e-commerce analysis using MySQL and Power BI, covering sales, customer behavior, delivery performance, and customer satisfaction.
